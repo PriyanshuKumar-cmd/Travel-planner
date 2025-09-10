@@ -13,10 +13,6 @@ Users can search destinations, explore interactive maps, and make mock bookings 
 
 📅 Book and manage trips (stored in browser localStorage)
 
-🌙 Dark / Light mode toggle
-
-🎨 Responsive, modern UI
-
 🛠️ Tech Stack
 
 React (Vite)
