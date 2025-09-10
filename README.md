@@ -3,6 +3,8 @@
 A modern travel planning and event booking web app built with React + Leaflet + Vite.
 Users can search destinations, explore interactive maps, and make mock bookings — all with dark/light mode support.
 
+Project link: http://localhost:5173/
+
 ✨ Features
 
 🔎 Search destinations (local + OpenStreetMap geocoding)
@@ -20,5 +22,3 @@ React (Vite)
 Leaflet.js (OpenStreetMap)
 
 LocalStorage (bookings persistence)
-
-CSS (custom + dark mode toggle)
