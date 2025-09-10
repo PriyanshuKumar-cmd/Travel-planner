@@ -1,12 +1,28 @@
-# React + Vite
+🌍 Travel Planner App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern travel planning and event booking web app built with React + Leaflet + Vite.
+Users can search destinations, explore interactive maps, and make mock bookings — all with dark/light mode support.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔎 Search destinations (local + OpenStreetMap geocoding)
 
-## Expanding the ESLint configuration
+🗺️ Interactive map using Leaflet + OpenStreetMap tiles
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 View & zoom into locations with markers and popups
+
+📅 Book and manage trips (stored in browser localStorage)
+
+🌙 Dark / Light mode toggle
+
+🎨 Responsive, modern UI
+
+🛠️ Tech Stack
+
+React (Vite)
+
+Leaflet.js (OpenStreetMap)
+
+LocalStorage (bookings persistence)
+
+CSS (custom + dark mode toggle)
